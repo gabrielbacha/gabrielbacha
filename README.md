@@ -10,6 +10,7 @@ I [automate](https://www.gabrielbacha.com/optimization/) anything I can in my ho
 #### Life
 [My personal website →](https://www.gabrielbacha.com/)  
 [Recommendations I often share with friends →](https://www.gabrielbacha.com/discover/)  
+[No-nonsense health advice →](https://www.gabrielbacha.com/health/)  
 
 #### Tech
 [Mac & Home automations →](https://www.gabrielbacha.com/optimization/)  
