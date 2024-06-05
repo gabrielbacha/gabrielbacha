@@ -1,4 +1,4 @@
-## Hey I'm Gabriel.
+#### Hey I'm Gabriel.
 
 I was into tech and electronics since I was a kid but went into an investment banking/private equity career in tech and software.
 
