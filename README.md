@@ -1,16 +1,15 @@
-## Hi there 👋
+## Hey I'm Gabriel.
 
-<!--
-**gabrielbacha/gabrielbacha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I was into tech and electronics since I was a kid but went into Finance.
 
-Here are some ideas to get you started:
+My brain was always wired for coding. I've historically built things with my scientific calculator, excel and VBA. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+A few years later, I learned Python then Ruby. 
+
+AI came along and gave me superpowers. (Rational brain + AI + Coding = 🚀). Naturally, I picked up JS/HTML/CSS.
+
+---
+
+I [automate](https://www.gabrielbacha.com/optimization/) anything I can in my home and on my Mac.
+
+I love tinkering with random projects. I share some useful things I've created but most of my repos are still private.
