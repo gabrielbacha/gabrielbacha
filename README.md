@@ -15,7 +15,11 @@ I love tinkering with random projects. I share some useful things I've created b
 ---
 
 [My personal website →](https://www.gabrielbacha.com/)  
-[Books, articles and documentaries I often share with friends →](https://www.gabrielbacha.com/discover/) 
+
+[Books, articles and documentaries I often share with friends →](https://www.gabrielbacha.com/discover/)  
+
 [Practical Mac and Home improvements & automations  →](https://www.gabrielbacha.com/optimization/)  
+
 [My tech stack →](https://www.gabrielbacha.com/uses/)  
+
 [Proper electronic music →](https://soundcloud.com/gabrielbacha)  
