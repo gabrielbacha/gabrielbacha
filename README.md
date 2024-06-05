@@ -6,7 +6,7 @@ My brain was always wired for coding. I've historically built things with my sci
 
 AI came along and gave me superpowers. (Rational brain + AI + Coding = 🚀). Naturally, I picked up JS/HTML/CSS.
 
----
+
 I [automate](https://www.gabrielbacha.com/optimization/) anything I can in my home and on my Mac.
 
 I love tinkering with random projects. I share some useful things I've created but most of my repos are still private.
